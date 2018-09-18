@@ -6,3 +6,4 @@ Project for training my java programming skills
 [Петя] меню сделано горизонтальным 3
 
 new-footer First commit
+[Петя] изменён текст на главной странице
