@@ -7,3 +7,5 @@ Project for training my java programming skills
 
 new-footer First commit
 [Петя] изменён текст на главной странице
+
+[Вася] new-footer 2-nd commit
