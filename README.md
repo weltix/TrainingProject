@@ -8,3 +8,4 @@ Project for training my java programming skills
 new-footer First commit
 [Петя] изменён текст на главной странице
 Test
+123
