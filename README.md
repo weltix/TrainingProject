@@ -7,3 +7,4 @@ Project for training my java programming skills
 
 
 [Петя] изменён текст на главной странице
+Test
